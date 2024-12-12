@@ -13,6 +13,7 @@ So, what do you want to explore?
 [Here is a link to my resume](./resume.md)
 
 TL;DR 
+
 I have a Master's in Statistics and a Bachelor's in Mathematics. Day to day, I work with data and build models, and sometimes work on side projects to solve problems or learn new things. The rest of the time, I'm probably making coffee, rock climbing, camping, or hiking with my dog.
 
 # Photography
