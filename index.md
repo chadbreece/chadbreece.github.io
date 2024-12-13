@@ -16,12 +16,12 @@ TL;DR
 
 I have a Master's in Statistics and a Bachelor's in Mathematics. Day to day, I work with data and build models, and sometimes work on side projects to solve problems or learn new things. The rest of the time, I'm probably making coffee, rock climbing, camping, or hiking with my dog.
 
-# Photography
-
-[Here is a link to my photography portfolio](./photography.md)
-
 # Side Projects
 
 [Here is a link to my side projects](./side-projects.md)
 
 Most of them are either machine learning modeling, data analysis, or other coding projects that just generally interest me or make the world a better place. I'll try to keep them updated as I work on them.
+
+# Photography
+
+[Here is a link to my photography portfolio](./photography.md)
