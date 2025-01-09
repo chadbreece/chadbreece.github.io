@@ -24,4 +24,4 @@ Most of them are either machine learning modeling, data analysis, or other codin
 
 # Photography
 
-[Here is a link to my photography portfolio](./photography.md)
+[Here is a link to my photography portfolio](https://chadbreece.darkroom.com/)
